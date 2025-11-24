@@ -1,6 +1,6 @@
-# **Building Agentic AI Workflows with xAI on Vertex AI From Code to Action**
-**DevFest Tripoli Libya 2025**
-**By Eng. Manai Mohamed Mortadha**
+# **DevFest Tripoli Libya 2025 -Building Agentic AI Workflows with xAI on Vertex AI From Code to Action**
+
+**Author : Eng. Manai Mohamed Mortadha**
 
 ---
 
