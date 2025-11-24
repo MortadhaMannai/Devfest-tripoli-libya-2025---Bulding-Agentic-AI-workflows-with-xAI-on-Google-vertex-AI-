@@ -16,12 +16,6 @@ The included demo is a local version of a production grade agentic workflow buil
 
 ---
 
-```
-![Cover](Media/your-image.png)
-```
-
----
-
 # **Session Summary**
 
 Agentic AI refers to AI systems that can:
